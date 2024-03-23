@@ -1,13 +1,12 @@
 /*  your css code here. If applicable */
 table {
-	width: 100%;
+	border: 1px solid black;
 	border-collapse: collapse;
 	background-color: yellow;
 }
 
 th, td {
 	border: 1px solid black;
-	padding: 8px;
 	text-align: left;
 }
 
